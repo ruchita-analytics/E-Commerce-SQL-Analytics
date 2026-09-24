@@ -50,11 +50,14 @@ sales performance, customer behavior, and product performance.
 
 ## Project Screenshots
 
+### Revenue Analysis
+![Revenue Analysis](sql%201.png)
+
 ### Top 5 Products
-![Top Products](screenshots/02_top_products.png)
+![Top Products](sql%202.png)
 
 ### Advanced SQL
-![Advanced SQL](screenshots/03_advanced_sql.png)
+![Advanced SQL](sql%203.png)
 
 ### Final KPI
-![Final KPI](screenshots/04_final_kpi.png)
+![Final KPI](sql%204.png)
